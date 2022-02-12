@@ -1,0 +1,16 @@
+#product-img {
+    width: 9em;
+    height: 8em;
+}
+
+.first-section, .second-section {
+    position: relative;
+    width: 100%;
+    font-size: 11pt;
+    margin: 0 2%;
+}
+
+.part {
+    text-align: center;
+    width: 21%;
+}
